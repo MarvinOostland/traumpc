@@ -4,3 +4,4 @@ Power supply: Be quiet System Power 9
 HDD: WD Black 1TB
 SSD: Crucial MX 500
 SSD2: Crucial MX 500
+CASE: Be quiet SILENT BASE 600
