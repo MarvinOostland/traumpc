@@ -2,3 +2,4 @@ CPU: Ryzen 5 5600
 GPU: Nvidia Geforce RTX 3090
 Power supply: Be quiet System Power 9
 HDD: WD Black 1TB
+SSD: Crucial MX 500
